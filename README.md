@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tunguso4ka
-- 👀 I’m interested in C#, .NET, WPF, UWP, Python, Unity, Godot, C++;
-- 🌱 I’m currently learning C#, XAML and .NET Framework;
-- 💞️ I’m looking to collaborate on my projects;
+- 👀 I’m interested in C#, .NET, WPF, UWP, Python, Unity, Godot, C++, GTK, openGL, Vulkan;
+- 🌱 I’m currently learning Python, C++ and GTK;
 - 📫 How to reach me: twitter @tunguso4ka
 
 <!---
