@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tunguso4ka
-- 👀 I’m interested in C#, .NET, WPF, UWP, Python, Unity, Godot, C++, GTK, openGL, Vulkan;
-- 🌱 I’m currently learning Python, C++ and GTK;
-- 📫 How to reach me: twitter @tunguso4ka
+- 👋 Hi, I’m @Tunguso4ka and im a non-binary girl! (she/her it/its)
+- 👀 I’m interested in creation of my own languages;
+- 🌱 I’m currently learning Python and C;
+- 📫 How to reach me: twitter @tunguso4ka, reddit r/TungusChan
 
 <!---
 Tunguso4ka/Tunguso4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
