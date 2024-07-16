@@ -5,6 +5,6 @@
 - reddit [r/TungusChan](https://www.reddit.com/user/TungusChan/)
 - discord: [tunguso4ka](https://discordapp.com/users/636156844934430720)
 
-## 🇺🇦 Мої переклади на Українську.
+## 🇺🇦 Мої переклади Українською.
 - [Космічна Станція 14](https://github.com/Tunguso4ka/space-station-14)
 - [Космічні Морпіхи 14](https://github.com/Tunguso4ka/CM-14)
